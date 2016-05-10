@@ -1,10 +1,19 @@
 body {
     background-color: Black;
     color: Gold;
+    text-align: Center;
+}
+a:link {
+    color: Red;
+}
+a:visited {
+    color: #cccccc;
 }
 h1 {
     font-family: Papyrus;
+    font-size: 300%;
 }
 p {
     font-family: 'Comic Sans MS';
+    font-size: 150%
 }
